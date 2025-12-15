@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amannss/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 <!---LeetCode Topics End-->
