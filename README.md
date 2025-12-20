@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amannss/DSA-problems/tree/master/0001-two-sum) |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
+| [0944-delete-columns-to-make-sorted](https://github.com/amannss/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amannss/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/amannss/DSA-problems/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
+| [0944-delete-columns-to-make-sorted](https://github.com/amannss/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 ## Graph
