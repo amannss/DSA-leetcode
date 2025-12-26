@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amannss/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/amannss/DSA-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 ## Graph
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/amannss/DSA-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Depth-First Search
