@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/amannss/DSA-problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amannss/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amannss/DSA-problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Breadth-First Search
