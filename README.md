@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/amannss/DSA-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/amannss/DSA-problems/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3433-count-mentions-per-user](https://github.com/amannss/DSA-problems/tree/master/3433-count-mentions-per-user) |
+| [3453-separate-squares-i](https://github.com/amannss/DSA-problems/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/amannss/DSA-problems/tree/master/3531-count-covered-buildings) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amannss/DSA-problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amannss/DSA-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3453-separate-squares-i](https://github.com/amannss/DSA-problems/tree/master/3453-separate-squares-i) |
 ## Matrix
 |  |
 | ------- |
