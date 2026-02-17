@@ -1,29 +1,25 @@
 class Solution {
 public:
-int solve(vector<int>&coins ,vector<vector<int>> &dp,int target , int i )
-{
-    
-    if(target == 0) 
-    {   
-        return 1  ;
-    }
-    if(i< 0) return 0 ;
 
-    if(dp[i][target] != -1) return dp[i][target] ; 
-
-    int not_take = solve(coins ,dp,target ,i-1) ;
-    int take  = 0;
-    if(coins[i]<=target )
-    {
-    take = solve(coins , dp ,target - coins[i] , i )  ;
-    }
-    return dp[i][target] = take+not_take ;
-}
     int change(int amount, vector<int>& coins) {
         int n = coins.size() ;
-        
-        vector<vector<int>> dp(n+1 , vector<int>(amount + 1 , -1)) ;
-        int ans = solve(coins , dp ,amount , n-1) ;
-        return ans ;
+        int target = amount ;
+        vector<vector<unsigned long long >> dp(n+1 , vector<unsigned long long >(amount + 1 , 0)) ;
+        for(int i = 0;i<= n;i++)
+        {
+            dp[i][0] = 1 ;// if we take empty subset 
+        }
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=0;j<=target; j++)
+            {
+                if(coins[i-1] <= j )
+                {
+                    dp[i][j] = dp[i-1][j] + dp[i][j-coins[i-1]]  ; 
+                }
+                else dp[i][j] = dp[i-1][j] ;
+            }
+        }
+        return dp[n][target] ;
     }
 };
