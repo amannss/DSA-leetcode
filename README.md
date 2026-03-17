@@ -234,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/amannss/DSA-problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/amannss/DSA-problems/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
