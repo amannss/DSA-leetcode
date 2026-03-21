@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0066-plus-one](https://github.com/amannss/DSA-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/amannss/DSA-problems/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/amannss/DSA-problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1390-four-divisors](https://github.com/amannss/DSA-problems/tree/master/1390-four-divisors) |
 | [1925-count-square-sum-triples](https://github.com/amannss/DSA-problems/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amannss/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/amannss/DSA-problems/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/amannss/DSA-problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amannss/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/amannss/DSA-problems/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/amannss/DSA-problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/amannss/DSA-problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/amannss/DSA-problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/amannss/DSA-problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/amannss/DSA-problems/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/amannss/DSA-problems/tree/main/0183-customers-who-never-order/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/amannss/DSA-problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
