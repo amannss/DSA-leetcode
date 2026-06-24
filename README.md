@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amannss/DSA-problems/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amannss/DSA-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/amannss/DSA-problems/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amannss/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amannss/DSA-problems/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/amannss/DSA-problems/tree/master/2092-find-all-people-with-secret) |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amannss/DSA-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/amannss/DSA-problems/tree/master/1975-maximum-matrix-sum) |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
 | [3074-apple-redistribution-into-boxes](https://github.com/amannss/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -288,4 +291,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/amannss/DSA-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amannss/DSA-problems/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amannss/DSA-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 <!---LeetCode Topics End-->
