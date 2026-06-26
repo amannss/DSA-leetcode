@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/amannss/DSA-problems/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/amannss/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/amannss/DSA-problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/amannss/DSA-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amannss/DSA-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amannss/DSA-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/amannss/DSA-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amannss/DSA-problems/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/amannss/DSA-problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amannss/DSA-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 <!---LeetCode Topics End-->
