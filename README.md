@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/amannss/DSA-problems/tree/master/1925-count-square-sum-triples) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amannss/DSA-problems/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/amannss/DSA-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amannss/DSA-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amannss/DSA-problems/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 ## Graph
 | Problem Name | Difficulty |
@@ -306,4 +308,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/amannss/DSA-problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amannss/DSA-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amannss/DSA-problems/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 <!---LeetCode Topics End-->
