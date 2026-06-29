@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amannss/DSA-problems/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/amannss/DSA-problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/amannss/DSA-problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/amannss/DSA-problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/amannss/DSA-problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/amannss/DSA-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/amannss/DSA-problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amannss/DSA-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amannss/DSA-problems/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/amannss/DSA-problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/amannss/DSA-problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 <!---LeetCode Topics End-->
