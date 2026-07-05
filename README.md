@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amannss/DSA-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/amannss/DSA-problems/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/amannss/DSA-problems/tree/master/0085-maximal-rectangle) |
+| [0560-subarray-sum-equals-k](https://github.com/amannss/DSA-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [0874-walking-robot-simulation](https://github.com/amannss/DSA-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/amannss/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amannss/DSA-problems/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/amannss/DSA-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/amannss/DSA-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [2483-minimum-penalty-for-a-shop](https://github.com/amannss/DSA-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
