@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amannss/DSA-problems/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/amannss/DSA-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/amannss/DSA-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/amannss/DSA-problems/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/amannss/DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amannss/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amannss/DSA-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amannss/DSA-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/amannss/DSA-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/amannss/DSA-problems/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/amannss/DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/amannss/DSA-problems/tree/main/0962-maximum-width-ramp/) | Medium |
