@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
+| [0859-buddy-strings](https://github.com/amannss/DSA-problems/tree/main/0859-buddy-strings/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/amannss/DSA-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amannss/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
+| [0859-buddy-strings](https://github.com/amannss/DSA-problems/tree/main/0859-buddy-strings/) | Easy |
 | [0926-flip-string-to-monotone-increasing](https://github.com/amannss/DSA-problems/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/amannss/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
