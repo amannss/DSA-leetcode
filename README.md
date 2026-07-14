@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/amannss/DSA-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/amannss/DSA-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/amannss/DSA-problems/tree/main/0443-string-compression/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/amannss/DSA-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0647-palindromic-substrings](https://github.com/amannss/DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amannss/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -387,4 +388,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amannss/DSA-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/amannss/DSA-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
