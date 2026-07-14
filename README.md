@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amannss/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amannss/DSA-problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2272-substring-with-largest-variance](https://github.com/amannss/DSA-problems/tree/main/2272-substring-with-largest-variance/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amannss/DSA-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/amannss/DSA-problems/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3531-count-covered-buildings](https://github.com/amannss/DSA-problems/tree/master/3531-count-covered-buildings) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/amannss/DSA-problems/tree/master/1925-count-square-sum-triples) |
+| [2272-substring-with-largest-variance](https://github.com/amannss/DSA-problems/tree/main/2272-substring-with-largest-variance/) | Hard |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amannss/DSA-problems/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/amannss/DSA-problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amannss/DSA-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/amannss/DSA-problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
+| [2272-substring-with-largest-variance](https://github.com/amannss/DSA-problems/tree/main/2272-substring-with-largest-variance/) | Hard |
 | [2483-minimum-penalty-for-a-shop](https://github.com/amannss/DSA-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amannss/DSA-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/amannss/DSA-problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/amannss/DSA-problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amannss/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2272-substring-with-largest-variance](https://github.com/amannss/DSA-problems/tree/main/2272-substring-with-largest-variance/) | Hard |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amannss/DSA-problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
