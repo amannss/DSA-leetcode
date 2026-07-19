@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amannss/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1657-determine-if-two-strings-are-close](https://github.com/amannss/DSA-problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/amannss/DSA-problems/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2272-substring-with-largest-variance](https://github.com/amannss/DSA-problems/tree/main/2272-substring-with-largest-variance/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amannss/DSA-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/amannss/DSA-problems/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amannss/DSA-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/amannss/DSA-problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/amannss/DSA-problems/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/amannss/DSA-problems/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2272-substring-with-largest-variance](https://github.com/amannss/DSA-problems/tree/main/2272-substring-with-largest-variance/) | Hard |
 | [2483-minimum-penalty-for-a-shop](https://github.com/amannss/DSA-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amannss/DSA-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amannss/DSA-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/amannss/DSA-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/amannss/DSA-problems/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/amannss/DSA-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/amannss/DSA-problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/amannss/DSA-problems/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/amannss/DSA-problems/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
