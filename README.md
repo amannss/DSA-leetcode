@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/amannss/DSA-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Database
 | Problem Name | Difficulty |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amannss/DSA-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/amannss/DSA-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/amannss/DSA-problems/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/amannss/DSA-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
