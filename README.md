@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/amannss/DSA-problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amannss/DSA-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/amannss/DSA-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/amannss/DSA-problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/amannss/DSA-problems/tree/main/0205-isomorphic-strings/) | Easy |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amannss/DSA-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/amannss/DSA-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amannss/DSA-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/amannss/DSA-problems/tree/main/0049-group-anagrams/) | Medium |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amannss/DSA-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/amannss/DSA-problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/amannss/DSA-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
