@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amannss/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0962-maximum-width-ramp](https://github.com/amannss/DSA-problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/amannss/DSA-problems/tree/master/1390-four-divisors) |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amannss/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/amannss/DSA-problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/amannss/DSA-problems/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2272-substring-with-largest-variance](https://github.com/amannss/DSA-problems/tree/main/2272-substring-with-largest-variance/) | Hard |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/amannss/DSA-problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0326-power-of-three](https://github.com/amannss/DSA-problems/tree/main/0326-power-of-three/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1390-four-divisors](https://github.com/amannss/DSA-problems/tree/master/1390-four-divisors) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/amannss/DSA-problems/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/amannss/DSA-problems/tree/master/1925-count-square-sum-triples) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amannss/DSA-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/amannss/DSA-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/amannss/DSA-problems/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/amannss/DSA-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2947-count-beautiful-substrings-i](https://github.com/amannss/DSA-problems/tree/main/2947-count-beautiful-substrings-i/) | Medium |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/amannss/DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/amannss/DSA-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/amannss/DSA-problems/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Topological Sort
