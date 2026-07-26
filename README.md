@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/amannss/DSA-problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1759-count-number-of-homogenous-substrings](https://github.com/amannss/DSA-problems/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/amannss/DSA-problems/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/amannss/DSA-problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/amannss/DSA-problems/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/amannss/DSA-problems/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
 | [2272-substring-with-largest-variance](https://github.com/amannss/DSA-problems/tree/main/2272-substring-with-largest-variance/) | Hard |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/amannss/DSA-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/amannss/DSA-problems/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/amannss/DSA-problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/amannss/DSA-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2947-count-beautiful-substrings-i](https://github.com/amannss/DSA-problems/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [2949-count-beautiful-substrings-ii](https://github.com/amannss/DSA-problems/tree/main/2949-count-beautiful-substrings-ii/) | Hard |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/amannss/DSA-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/amannss/DSA-problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/amannss/DSA-problems/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Topological Sort
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amannss/DSA-problems/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amannss/DSA-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/amannss/DSA-problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amannss/DSA-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3453-separate-squares-i](https://github.com/amannss/DSA-problems/tree/master/3453-separate-squares-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amannss/DSA-problems/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
