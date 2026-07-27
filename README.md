@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/amannss/DSA-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/amannss/DSA-problems/tree/main/0326-power-of-three/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -492,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/amannss/DSA-problems/tree/main/0933-number-of-recent-calls/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/amannss/DSA-problems/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
