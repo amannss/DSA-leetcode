@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/amannss/DSA-problems/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amannss/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/amannss/DSA-problems/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/amannss/DSA-problems/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/amannss/DSA-problems/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/amannss/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amannss/DSA-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/amannss/DSA-problems/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/amannss/DSA-problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/amannss/DSA-problems/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/amannss/DSA-problems/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Topological Sort
