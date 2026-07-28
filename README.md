@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amannss/DSA-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/amannss/DSA-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/amannss/DSA-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/amannss/DSA-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [0874-walking-robot-simulation](https://github.com/amannss/DSA-problems/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/amannss/DSA-problems/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/amannss/DSA-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/amannss/DSA-problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3583-count-special-triplets](https://github.com/amannss/DSA-problems/tree/master/3583-count-special-triplets) |
 ## Brainteaser
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amannss/DSA-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/amannss/DSA-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amannss/DSA-problems/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/amannss/DSA-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0647-palindromic-substrings](https://github.com/amannss/DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amannss/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
 | [3123-find-edges-in-shortest-paths](https://github.com/amannss/DSA-problems/tree/master/3123-find-edges-in-shortest-paths) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amannss/DSA-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -472,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
+| [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/amannss/DSA-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/amannss/DSA-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
