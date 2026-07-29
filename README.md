@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amannss/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/amannss/DSA-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/amannss/DSA-problems/tree/main/0525-contiguous-array/) | Medium |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/amannss/DSA-problems/tree/main/0049-group-anagrams/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/amannss/DSA-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/amannss/DSA-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/amannss/DSA-problems/tree/master/0085-maximal-rectangle) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/amannss/DSA-problems/tree/master/1975-maximum-matrix-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/amannss/DSA-problems/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
