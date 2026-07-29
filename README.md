@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amannss/DSA-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/amannss/DSA-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/amannss/DSA-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/amannss/DSA-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amannss/DSA-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/amannss/DSA-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
 | [3123-find-edges-in-shortest-paths](https://github.com/amannss/DSA-problems/tree/master/3123-find-edges-in-shortest-paths) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/amannss/DSA-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/amannss/DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/amannss/DSA-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/amannss/DSA-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/amannss/DSA-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -452,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/amannss/DSA-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/amannss/DSA-problems/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/amannss/DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/amannss/DSA-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/amannss/DSA-problems/tree/main/0962-maximum-width-ramp/) | Medium |
