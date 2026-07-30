@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
+| [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
 | [0859-buddy-strings](https://github.com/amannss/DSA-problems/tree/main/0859-buddy-strings/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/amannss/DSA-problems/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/amannss/DSA-problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3583-count-special-triplets](https://github.com/amannss/DSA-problems/tree/master/3583-count-special-triplets) |
 ## Brainteaser
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/amannss/DSA-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amannss/DSA-problems/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
+| [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
 | [0859-buddy-strings](https://github.com/amannss/DSA-problems/tree/main/0859-buddy-strings/) | Easy |
 | [0880-decoded-string-at-index](https://github.com/amannss/DSA-problems/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0926-flip-string-to-monotone-increasing](https://github.com/amannss/DSA-problems/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
 | [3123-find-edges-in-shortest-paths](https://github.com/amannss/DSA-problems/tree/master/3123-find-edges-in-shortest-paths) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amannss/DSA-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -360,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/amannss/DSA-problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
+| [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
