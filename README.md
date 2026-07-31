@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amannss/DSA-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/amannss/DSA-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/amannss/DSA-problems/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/amannss/DSA-problems/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/amannss/DSA-problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/amannss/DSA-problems/tree/main/0068-text-justification/) | Hard |
 | [0085-maximal-rectangle](https://github.com/amannss/DSA-problems/tree/master/0085-maximal-rectangle) |
