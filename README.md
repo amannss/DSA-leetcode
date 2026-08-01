@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/amannss/DSA-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/amannss/DSA-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/amannss/DSA-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/amannss/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0647-palindromic-substrings](https://github.com/amannss/DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amannss/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/amannss/DSA-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0926-flip-string-to-monotone-increasing](https://github.com/amannss/DSA-problems/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/amannss/DSA-problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/amannss/DSA-problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
+| [0871-minimum-number-of-refueling-stops](https://github.com/amannss/DSA-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
 | [3123-find-edges-in-shortest-paths](https://github.com/amannss/DSA-problems/tree/master/3123-find-edges-in-shortest-paths) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amannss/DSA-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/amannss/DSA-problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
+| [0871-minimum-number-of-refueling-stops](https://github.com/amannss/DSA-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
