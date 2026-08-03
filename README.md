@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/amannss/DSA-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/amannss/DSA-problems/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/amannss/DSA-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0480-sliding-window-median](https://github.com/amannss/DSA-problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/amannss/DSA-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/amannss/DSA-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/amannss/DSA-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/amannss/DSA-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0630-course-schedule-iii](https://github.com/amannss/DSA-problems/tree/main/0630-course-schedule-iii/) | Hard |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amannss/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/amannss/DSA-problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0392-is-subsequence](https://github.com/amannss/DSA-problems/tree/main/0392-is-subsequence/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/amannss/DSA-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0647-palindromic-substrings](https://github.com/amannss/DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amannss/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/amannss/DSA-problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/amannss/DSA-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0630-course-schedule-iii](https://github.com/amannss/DSA-problems/tree/main/0630-course-schedule-iii/) | Hard |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
