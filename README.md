@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/amannss/DSA-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/amannss/DSA-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/amannss/DSA-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/amannss/DSA-problems/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/amannss/DSA-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amannss/DSA-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/amannss/DSA-problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/amannss/DSA-problems/tree/main/0205-isomorphic-strings/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/amannss/DSA-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/amannss/DSA-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/amannss/DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0480-sliding-window-median](https://github.com/amannss/DSA-problems/tree/main/0480-sliding-window-median/) | Hard |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amannss/DSA-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/amannss/DSA-problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/amannss/DSA-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/amannss/DSA-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/amannss/DSA-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/amannss/DSA-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/amannss/DSA-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/amannss/DSA-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/amannss/DSA-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/amannss/DSA-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/amannss/DSA-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/amannss/DSA-problems/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0480-sliding-window-median](https://github.com/amannss/DSA-problems/tree/main/0480-sliding-window-median/) | Hard |
@@ -529,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amannss/DSA-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/amannss/DSA-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/amannss/DSA-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/amannss/DSA-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/amannss/DSA-problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Segment Tree
@@ -578,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amannss/DSA-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -591,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amannss/DSA-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/amannss/DSA-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
 | ------- | ------- |
