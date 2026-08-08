@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/amannss/DSA-problems/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/amannss/DSA-problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/amannss/DSA-problems/tree/main/0068-text-justification/) | Hard |
+| [0078-subsets](https://github.com/amannss/DSA-problems/tree/main/0078-subsets/) | Medium |
 | [0085-maximal-rectangle](https://github.com/amannss/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/amannss/DSA-problems/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/amannss/DSA-problems/tree/main/0135-candy/) | Hard |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/amannss/DSA-problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/amannss/DSA-problems/tree/main/0078-subsets/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/amannss/DSA-problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0980-unique-paths-iii](https://github.com/amannss/DSA-problems/tree/main/0980-unique-paths-iii/) | Hard |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/amannss/DSA-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/amannss/DSA-problems/tree/main/0078-subsets/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0980-unique-paths-iii](https://github.com/amannss/DSA-problems/tree/main/0980-unique-paths-iii/) | Hard |
 ## Tree
