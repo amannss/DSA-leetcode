@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/amannss/DSA-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/amannss/DSA-problems/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/amannss/DSA-problems/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/amannss/DSA-problems/tree/main/0078-subsets/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0980-unique-paths-iii](https://github.com/amannss/DSA-problems/tree/main/0980-unique-paths-iii/) | Hard |
@@ -652,4 +653,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/amannss/DSA-problems/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/amannss/DSA-problems/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
