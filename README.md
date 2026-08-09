@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amannss/DSA-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0045-jump-game-ii](https://github.com/amannss/DSA-problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/amannss/DSA-problems/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/amannss/DSA-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/amannss/DSA-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/amannss/DSA-problems/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/amannss/DSA-problems/tree/main/0055-jump-game/) | Medium |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/amannss/DSA-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/amannss/DSA-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/amannss/DSA-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/amannss/DSA-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/amannss/DSA-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/amannss/DSA-problems/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/amannss/DSA-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/amannss/DSA-problems/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/amannss/DSA-problems/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/amannss/DSA-problems/tree/main/0078-subsets/) | Medium |
