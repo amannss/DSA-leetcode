@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/amannss/DSA-problems/tree/master/0310-minimum-height-trees) |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/amannss/DSA-problems/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/amannss/DSA-problems/tree/main/1192-critical-connections-in-a-network/) | Hard |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/amannss/DSA-problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/amannss/DSA-problems/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/amannss/DSA-problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/amannss/DSA-problems/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
