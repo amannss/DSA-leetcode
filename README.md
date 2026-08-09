@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/amannss/DSA-problems/tree/main/0326-power-of-three/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/amannss/DSA-problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/amannss/DSA-problems/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/amannss/DSA-problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1390-four-divisors](https://github.com/amannss/DSA-problems/tree/master/1390-four-divisors) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/amannss/DSA-problems/tree/main/0078-subsets/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/amannss/DSA-problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
+| [0779-k-th-symbol-in-grammar](https://github.com/amannss/DSA-problems/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0980-unique-paths-iii](https://github.com/amannss/DSA-problems/tree/main/0980-unique-paths-iii/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/amannss/DSA-problems/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/amannss/DSA-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/amannss/DSA-problems/tree/main/0326-power-of-three/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/amannss/DSA-problems/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
