@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/amannss/DSA-problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amannss/DSA-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/amannss/DSA-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/amannss/DSA-problems/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/amannss/DSA-problems/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amannss/DSA-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1390-four-divisors](https://github.com/amannss/DSA-problems/tree/master/1390-four-divisors) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/amannss/DSA-problems/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/amannss/DSA-problems/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/amannss/DSA-problems/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amannss/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/amannss/DSA-problems/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amannss/DSA-problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/amannss/DSA-problems/tree/main/0068-text-justification/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/amannss/DSA-problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/amannss/DSA-problems/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/amannss/DSA-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/amannss/DSA-problems/tree/master/3433-count-mentions-per-user) |
 ## String
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/amannss/DSA-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/amannss/DSA-problems/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/amannss/DSA-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/amannss/DSA-problems/tree/main/0326-power-of-three/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/amannss/DSA-problems/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/amannss/DSA-problems/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
