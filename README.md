@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amannss/DSA-problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0480-sliding-window-median](https://github.com/amannss/DSA-problems/tree/main/0480-sliding-window-median/) | Hard |
+| [0491-non-decreasing-subsequences](https://github.com/amannss/DSA-problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/amannss/DSA-problems/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/amannss/DSA-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/amannss/DSA-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/amannss/DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0480-sliding-window-median](https://github.com/amannss/DSA-problems/tree/main/0480-sliding-window-median/) | Hard |
+| [0491-non-decreasing-subsequences](https://github.com/amannss/DSA-problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/amannss/DSA-problems/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/amannss/DSA-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amannss/DSA-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/amannss/DSA-problems/tree/main/0078-subsets/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/amannss/DSA-problems/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/amannss/DSA-problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0779-k-th-symbol-in-grammar](https://github.com/amannss/DSA-problems/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0980-unique-paths-iii](https://github.com/amannss/DSA-problems/tree/main/0980-unique-paths-iii/) | Hard |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/amannss/DSA-problems/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/amannss/DSA-problems/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/amannss/DSA-problems/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/amannss/DSA-problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0980-unique-paths-iii](https://github.com/amannss/DSA-problems/tree/main/0980-unique-paths-iii/) | Hard |
 ## Tree
