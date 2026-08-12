@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/amannss/DSA-problems/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/amannss/DSA-problems/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/amannss/DSA-problems/tree/main/0052-n-queens-ii/) | Hard |
+| [0077-combinations](https://github.com/amannss/DSA-problems/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/amannss/DSA-problems/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/amannss/DSA-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/amannss/DSA-problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
