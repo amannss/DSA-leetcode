@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amannss/DSA-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amannss/DSA-problems/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/amannss/DSA-problems/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1642-furthest-building-you-can-reach](https://github.com/amannss/DSA-problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amannss/DSA-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/amannss/DSA-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/amannss/DSA-problems/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1925-count-square-sum-triples](https://github.com/amannss/DSA-problems/tree/master/1925-count-square-sum-triples) |
 | [2272-substring-with-largest-variance](https://github.com/amannss/DSA-problems/tree/main/2272-substring-with-largest-variance/) | Hard |
 | [2947-count-beautiful-substrings-i](https://github.com/amannss/DSA-problems/tree/main/2947-count-beautiful-substrings-i/) | Medium |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/amannss/DSA-problems/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0980-unique-paths-iii](https://github.com/amannss/DSA-problems/tree/main/0980-unique-paths-iii/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/amannss/DSA-problems/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/amannss/DSA-problems/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/amannss/DSA-problems/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/amannss/DSA-problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0980-unique-paths-iii](https://github.com/amannss/DSA-problems/tree/main/0980-unique-paths-iii/) | Hard |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/amannss/DSA-problems/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
