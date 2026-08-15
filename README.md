@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/amannss/DSA-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/amannss/DSA-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amannss/DSA-problems/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/amannss/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amannss/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/amannss/DSA-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amannss/DSA-problems/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amannss/DSA-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/amannss/DSA-problems/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amannss/DSA-problems/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/amannss/DSA-problems/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amannss/DSA-problems/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/amannss/DSA-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/amannss/DSA-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/amannss/DSA-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amannss/DSA-problems/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/amannss/DSA-problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/amannss/DSA-problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Segment Tree
