@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/amannss/DSA-problems/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amannss/DSA-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/amannss/DSA-problems/tree/master/3433-count-mentions-per-user) |
+| [3536-maximum-product-of-two-digits](https://github.com/amannss/DSA-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amannss/DSA-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/amannss/DSA-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/amannss/DSA-problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/amannss/DSA-problems/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/amannss/DSA-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amannss/DSA-problems/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Simulation
