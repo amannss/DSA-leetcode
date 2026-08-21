@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/amannss/DSA-problems/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/amannss/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/amannss/DSA-problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amannss/DSA-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/amannss/DSA-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/amannss/DSA-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/amannss/DSA-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/amannss/DSA-problems/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/amannss/DSA-problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/amannss/DSA-problems/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amannss/DSA-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amannss/DSA-problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/amannss/DSA-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/amannss/DSA-problems/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/amannss/DSA-problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/amannss/DSA-problems/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amannss/DSA-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amannss/DSA-problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/amannss/DSA-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/amannss/DSA-problems/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/amannss/DSA-problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/amannss/DSA-problems/tree/main/0112-path-sum/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amannss/DSA-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amannss/DSA-problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/amannss/DSA-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -755,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0654-maximum-binary-tree/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amannss/DSA-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
