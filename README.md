@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/amannss/DSA-problems/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/amannss/DSA-problems/tree/master/2092-find-all-people-with-secret) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/amannss/DSA-problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/amannss/DSA-problems/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/amannss/DSA-problems/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/amannss/DSA-problems/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/amannss/DSA-problems/tree/master/2092-find-all-people-with-secret) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/amannss/DSA-problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/amannss/DSA-problems/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/amannss/DSA-problems/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/amannss/DSA-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/amannss/DSA-problems/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/amannss/DSA-problems/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/amannss/DSA-problems/tree/main/1192-critical-connections-in-a-network/) | Hard |
+| [1361-validate-binary-tree-nodes](https://github.com/amannss/DSA-problems/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/amannss/DSA-problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
@@ -777,4 +782,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amannss/DSA-problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/amannss/DSA-problems/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/amannss/DSA-problems/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
