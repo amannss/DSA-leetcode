@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
 | [0859-buddy-strings](https://github.com/amannss/DSA-problems/tree/main/0859-buddy-strings/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/amannss/DSA-problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/amannss/DSA-problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/amannss/DSA-problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0652-find-duplicate-subtrees](https://github.com/amannss/DSA-problems/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/amannss/DSA-problems/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/amannss/DSA-problems/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/amannss/DSA-problems/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/amannss/DSA-problems/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amannss/DSA-problems/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/amannss/DSA-problems/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amannss/DSA-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/amannss/DSA-problems/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amannss/DSA-problems/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
