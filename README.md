@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/amannss/DSA-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/amannss/DSA-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amannss/DSA-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amannss/DSA-problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0480-sliding-window-median](https://github.com/amannss/DSA-problems/tree/main/0480-sliding-window-median/) | Hard |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amannss/DSA-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/amannss/DSA-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/amannss/DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amannss/DSA-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0480-sliding-window-median](https://github.com/amannss/DSA-problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/amannss/DSA-problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
