@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/amannss/DSA-problems/tree/main/0135-candy/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/amannss/DSA-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/amannss/DSA-problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/amannss/DSA-problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/amannss/DSA-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/amannss/DSA-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amannss/DSA-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/amannss/DSA-problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/amannss/DSA-problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/amannss/DSA-problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/amannss/DSA-problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/amannss/DSA-problems/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amannss/DSA-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/amannss/DSA-problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/amannss/DSA-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/amannss/DSA-problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/amannss/DSA-problems/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/amannss/DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0480-sliding-window-median](https://github.com/amannss/DSA-problems/tree/main/0480-sliding-window-median/) | Hard |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/amannss/DSA-problems/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/amannss/DSA-problems/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/amannss/DSA-problems/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amannss/DSA-problems/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -824,4 +828,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/amannss/DSA-problems/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/amannss/DSA-problems/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/amannss/DSA-problems/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
