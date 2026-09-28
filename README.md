@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/amannss/DSA-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/amannss/DSA-problems/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/amannss/DSA-problems/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/amannss/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/amannss/DSA-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/amannss/DSA-problems/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -747,14 +748,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amannss/DSA-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/amannss/DSA-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/amannss/DSA-problems/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/amannss/DSA-problems/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/amannss/DSA-problems/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/amannss/DSA-problems/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/amannss/DSA-problems/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
