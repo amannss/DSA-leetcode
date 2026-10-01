@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amannss/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/amannss/DSA-problems/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/amannss/DSA-problems/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amannss/DSA-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/amannss/DSA-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/amannss/DSA-problems/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/amannss/DSA-problems/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2092-find-all-people-with-secret](https://github.com/amannss/DSA-problems/tree/master/2092-find-all-people-with-secret) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amannss/DSA-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amannss/DSA-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/amannss/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/amannss/DSA-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/amannss/DSA-problems/tree/master/1975-maximum-matrix-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amannss/DSA-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
 | [3074-apple-redistribution-into-boxes](https://github.com/amannss/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/amannss/DSA-problems/tree/master/3075-maximize-happiness-of-selected-children) |
