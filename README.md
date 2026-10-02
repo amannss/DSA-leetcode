@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/amannss/DSA-problems/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/amannss/DSA-problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amannss/DSA-problems/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0547-number-of-provinces](https://github.com/amannss/DSA-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/amannss/DSA-problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amannss/DSA-problems/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0547-number-of-provinces](https://github.com/amannss/DSA-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/amannss/DSA-problems/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/amannss/DSA-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/amannss/DSA-problems/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1361-validate-binary-tree-nodes](https://github.com/amannss/DSA-problems/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/amannss/DSA-problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/amannss/DSA-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/amannss/DSA-problems/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
