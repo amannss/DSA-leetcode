@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amannss/DSA-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/amannss/DSA-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amannss/DSA-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/amannss/DSA-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/amannss/DSA-problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/amannss/DSA-problems/tree/main/0068-text-justification/) | Hard |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amannss/DSA-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/amannss/DSA-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/amannss/DSA-problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/amannss/DSA-problems/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/amannss/DSA-problems/tree/master/0085-maximal-rectangle) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/amannss/DSA-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/amannss/DSA-problems/tree/main/0071-simplify-path/) | Medium |
 | [0085-maximal-rectangle](https://github.com/amannss/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/amannss/DSA-problems/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/amannss/DSA-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/amannss/DSA-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
