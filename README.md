@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/amannss/DSA-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0647-palindromic-substrings](https://github.com/amannss/DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/amannss/DSA-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/amannss/DSA-problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amannss/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0752-open-the-lock](https://github.com/amannss/DSA-problems/tree/master/0752-open-the-lock) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/amannss/DSA-problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0472-concatenated-words](https://github.com/amannss/DSA-problems/tree/main/0472-concatenated-words/) | Hard |
 | [0647-palindromic-substrings](https://github.com/amannss/DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/amannss/DSA-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amannss/DSA-problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/amannss/DSA-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0926-flip-string-to-monotone-increasing](https://github.com/amannss/DSA-problems/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amannss/DSA-problems/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/amannss/DSA-problems/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/amannss/DSA-problems/tree/main/0630-course-schedule-iii/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/amannss/DSA-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/amannss/DSA-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amannss/DSA-problems/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/amannss/DSA-problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/amannss/DSA-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0880-decoded-string-at-index](https://github.com/amannss/DSA-problems/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/amannss/DSA-problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1544-make-the-string-great](https://github.com/amannss/DSA-problems/tree/main/1544-make-the-string-great/) | Easy |
@@ -823,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amannss/DSA-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/amannss/DSA-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/amannss/DSA-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
