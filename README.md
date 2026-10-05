@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/amannss/DSA-problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0859-buddy-strings](https://github.com/amannss/DSA-problems/tree/main/0859-buddy-strings/) | Easy |
 | [0880-decoded-string-at-index](https://github.com/amannss/DSA-problems/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0926-flip-string-to-monotone-increasing](https://github.com/amannss/DSA-problems/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/amannss/DSA-problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/amannss/DSA-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/amannss/DSA-problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0880-decoded-string-at-index](https://github.com/amannss/DSA-problems/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/amannss/DSA-problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1544-make-the-string-great](https://github.com/amannss/DSA-problems/tree/main/1544-make-the-string-great/) | Easy |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amannss/DSA-problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/amannss/DSA-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/amannss/DSA-problems/tree/main/0856-score-of-parentheses/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
