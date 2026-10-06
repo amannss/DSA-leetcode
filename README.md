@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/amannss/DSA-problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0859-buddy-strings](https://github.com/amannss/DSA-problems/tree/main/0859-buddy-strings/) | Easy |
 | [0880-decoded-string-at-index](https://github.com/amannss/DSA-problems/tree/main/0880-decoded-string-at-index/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amannss/DSA-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0926-flip-string-to-monotone-increasing](https://github.com/amannss/DSA-problems/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/amannss/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/amannss/DSA-problems/tree/main/0763-partition-labels/) | Medium |
 | [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/amannss/DSA-problems/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amannss/DSA-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1642-furthest-building-you-can-reach](https://github.com/amannss/DSA-problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/amannss/DSA-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/amannss/DSA-problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0880-decoded-string-at-index](https://github.com/amannss/DSA-problems/tree/main/0880-decoded-string-at-index/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amannss/DSA-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/amannss/DSA-problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1544-make-the-string-great](https://github.com/amannss/DSA-problems/tree/main/1544-make-the-string-great/) | Easy |
 ## Monotonic Stack
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/amannss/DSA-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/amannss/DSA-problems/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amannss/DSA-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
