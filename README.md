@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/amannss/DSA-problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/amannss/DSA-problems/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/amannss/DSA-problems/tree/main/0205-isomorphic-strings/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/amannss/DSA-problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/amannss/DSA-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/amannss/DSA-problems/tree/main/0392-is-subsequence/) | Easy |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/amannss/DSA-problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/amannss/DSA-problems/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/amannss/DSA-problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0310-minimum-height-trees](https://github.com/amannss/DSA-problems/tree/master/0310-minimum-height-trees) |
 | [0404-sum-of-left-leaves](https://github.com/amannss/DSA-problems/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amannss/DSA-problems/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/amannss/DSA-problems/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/amannss/DSA-problems/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/amannss/DSA-problems/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/amannss/DSA-problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0756-pyramid-transition-matrix](https://github.com/amannss/DSA-problems/tree/master/0756-pyramid-transition-matrix) |
 | [0980-unique-paths-iii](https://github.com/amannss/DSA-problems/tree/main/0980-unique-paths-iii/) | Hard |
