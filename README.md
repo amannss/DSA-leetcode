@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/amannss/DSA-problems/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/amannss/DSA-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amannss/DSA-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/amannss/DSA-problems/tree/main/1544-make-the-string-great/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/amannss/DSA-problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/amannss/DSA-problems/tree/main/0880-decoded-string-at-index/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amannss/DSA-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/amannss/DSA-problems/tree/main/0962-maximum-width-ramp/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1544-make-the-string-great](https://github.com/amannss/DSA-problems/tree/main/1544-make-the-string-great/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/amannss/DSA-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/amannss/DSA-problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amannss/DSA-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
