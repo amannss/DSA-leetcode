@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amannss/DSA-problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amannss/DSA-leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/amannss/DSA-problems/tree/main/1544-make-the-string-great/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/amannss/DSA-problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amannss/DSA-problems/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amannss/DSA-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amannss/DSA-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amannss/DSA-leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/amannss/DSA-problems/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/amannss/DSA-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amannss/DSA-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/amannss/DSA-problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amannss/DSA-leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/amannss/DSA-problems/tree/main/1544-make-the-string-great/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/amannss/DSA-problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amannss/DSA-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/amannss/DSA-leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amannss/DSA-leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
