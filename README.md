@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amannss/DSA-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amannss/DSA-leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/amannss/DSA-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/amannss/DSA-leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2963-count-the-number-of-good-partitions](https://github.com/amannss/DSA-problems/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/amannss/DSA-problems/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/amannss/DSA-problems/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1925-count-square-sum-triples](https://github.com/amannss/DSA-problems/tree/master/1925-count-square-sum-triples) |
 | [2272-substring-with-largest-variance](https://github.com/amannss/DSA-problems/tree/main/2272-substring-with-largest-variance/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/amannss/DSA-leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/amannss/DSA-problems/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amannss/DSA-problems/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 ## Counting
