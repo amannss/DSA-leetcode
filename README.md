@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/amannss/DSA-problems/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/amannss/DSA-problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amannss/DSA-leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/amannss/DSA-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amannss/DSA-problems/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amannss/DSA-leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/amannss/DSA-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/amannss/DSA-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amannss/DSA-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amannss/DSA-leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
