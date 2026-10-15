@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/amannss/DSA-leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/amannss/DSA-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/amannss/DSA-leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amannss/DSA-leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2963-count-the-number-of-good-partitions](https://github.com/amannss/DSA-problems/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/amannss/DSA-problems/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2272-substring-with-largest-variance](https://github.com/amannss/DSA-problems/tree/main/2272-substring-with-largest-variance/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/amannss/DSA-problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amannss/DSA-problems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amannss/DSA-leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/amannss/DSA-problems/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [2949-count-beautiful-substrings-ii](https://github.com/amannss/DSA-problems/tree/main/2949-count-beautiful-substrings-ii/) | Hard |
 | [2963-count-the-number-of-good-partitions](https://github.com/amannss/DSA-problems/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amannss/DSA-leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/amannss/DSA-problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -893,4 +896,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/amannss/DSA-problems/tree/main/0239-sliding-window-maximum/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amannss/DSA-leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
