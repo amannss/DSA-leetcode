@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/amannss/DSA-problems/tree/master/1975-maximum-matrix-sum) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/amannss/DSA-problems/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amannss/DSA-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amannss/DSA-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/amannss/DSA-problems/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/amannss/DSA-problems/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/amannss/DSA-problems/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1834-single-threaded-cpu](https://github.com/amannss/DSA-problems/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amannss/DSA-problems/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amannss/DSA-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2092-find-all-people-with-secret](https://github.com/amannss/DSA-problems/tree/master/2092-find-all-people-with-secret) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amannss/DSA-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2285-maximum-total-importance-of-roads](https://github.com/amannss/DSA-problems/tree/master/2285-maximum-total-importance-of-roads) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amannss/DSA-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/amannss/DSA-problems/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/amannss/DSA-problems/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amannss/DSA-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amannss/DSA-leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amannss/DSA-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3453-separate-squares-i](https://github.com/amannss/DSA-problems/tree/master/3453-separate-squares-i) |
