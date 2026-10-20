@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/amannss/DSA-problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amannss/DSA-leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/amannss/DSA-leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/amannss/DSA-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amannss/DSA-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/amannss/DSA-leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/amannss/DSA-leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/amannss/DSA-leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2947-count-beautiful-substrings-i](https://github.com/amannss/DSA-problems/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amannss/DSA-problems/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/amannss/DSA-leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amannss/DSA-problems/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amannss/DSA-leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/amannss/DSA-leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
