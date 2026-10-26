@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amannss/DSA-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/amannss/DSA-problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amannss/DSA-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/amannss/DSA-problems/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amannss/DSA-problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/amannss/DSA-problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/amannss/DSA-problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/amannss/DSA-problems/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/amannss/DSA-problems/tree/master/3123-find-edges-in-shortest-paths) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amannss/DSA-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/amannss/DSA-problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/amannss/DSA-problems/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/amannss/DSA-problems/tree/master/3123-find-edges-in-shortest-paths) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amannss/DSA-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/amannss/DSA-problems/tree/master/1975-maximum-matrix-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/amannss/DSA-problems/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amannss/DSA-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -900,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/amannss/DSA-problems/tree/main/0547-number-of-provinces/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/amannss/DSA-problems/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amannss/DSA-leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
