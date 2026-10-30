@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amannss/DSA-problems/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/amannss/DSA-problems/tree/master/3606-coupon-code-validator) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/amannss/DSA-leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/amannss/DSA-leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/amannss/DSA-problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/amannss/DSA-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/amannss/DSA-problems/tree/master/3123-find-edges-in-shortest-paths) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/amannss/DSA-leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/amannss/DSA-problems/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/amannss/DSA-problems/tree/master/3123-find-edges-in-shortest-paths) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amannss/DSA-problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/amannss/DSA-leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/amannss/DSA-problems/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1361-validate-binary-tree-nodes](https://github.com/amannss/DSA-problems/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/amannss/DSA-problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/amannss/DSA-leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
