@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/amannss/DSA-problems/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/amannss/DSA-problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/amannss/DSA-leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1390-four-divisors](https://github.com/amannss/DSA-problems/tree/master/1390-four-divisors) |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amannss/DSA-problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/amannss/DSA-problems/tree/main/0767-reorganize-string/) | Medium |
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/amannss/DSA-problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/amannss/DSA-leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1402-reducing-dishes](https://github.com/amannss/DSA-problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amannss/DSA-problems/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/amannss/DSA-problems/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/amannss/DSA-problems/tree/main/0888-fair-candy-swap/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/amannss/DSA-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amannss/DSA-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/amannss/DSA-leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amannss/DSA-problems/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amannss/DSA-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/amannss/DSA-problems/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/amannss/DSA-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/amannss/DSA-problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0986-interval-list-intersections](https://github.com/amannss/DSA-problems/tree/main/0986-interval-list-intersections/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/amannss/DSA-leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amannss/DSA-problems/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/amannss/DSA-problems/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amannss/DSA-problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
